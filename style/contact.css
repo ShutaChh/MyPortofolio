@@ -1,0 +1,61 @@
+.title-contact {
+    color: #000000;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.connect {
+    color: darkcyan;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(4, 29, 129);
+    gap: 10px;
+    padding: 10px;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.name {
+    width: 50%;
+}
+
+.email {
+    width: 50%;
+}
+
+.form-item {
+    padding: 5px;
+    border-radius: 5px;
+    border-color: azure;
+    background-color: transparent;
+    outline: none;
+    color:ghostwhite;
+}
+
+.form-item:hover {
+    border-color: black;
+    transition: 0.2s ease-in-out;
+}
+
+.btn-contact {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(152, 164, 244);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+}
+
+.btn-contact:hover {
+    background-color: rgb(102, 114, 255);
+    transition: 0.2s ease-in-out;
+}

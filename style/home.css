@@ -1,0 +1,22 @@
+.banner {
+    background-image: url(https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/7516dbc8273f48844828dfea682d57cd603ee384-1900x1069.jpg);
+    color: white;
+    padding: 30px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-size: cover;
+}
+
+.btn-primary {
+    background-color: blanchedalmond;
+    color: black;
+    padding: 5px 15px;
+    border-radius: 30px 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.img-css {
+    border-radius: 50%;
+}

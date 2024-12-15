@@ -1,0 +1,26 @@
+.navigation-bar {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(4, 29, 129);
+  color: white;
+  padding: 0px 20px;
+}
+
+.nav-items {
+  color: white;
+}
+
+footer {
+  background-color: rgb(4, 29, 129);
+  text-align: center;
+  margin-top: 5px;
+  padding: 5px;
+  color: white;
+}
+
+.menu-utama {
+  color: white;
+  text-decoration: none;
+}
